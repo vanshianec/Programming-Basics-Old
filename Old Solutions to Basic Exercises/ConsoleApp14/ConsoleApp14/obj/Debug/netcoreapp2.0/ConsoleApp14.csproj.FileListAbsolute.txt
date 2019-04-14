@@ -1,0 +1,11 @@
+C:\Users\ivani\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\netcoreapp2.0\ConsoleApp14.deps.json
+C:\Users\ivani\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\netcoreapp2.0\ConsoleApp14.runtimeconfig.json
+C:\Users\ivani\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\netcoreapp2.0\ConsoleApp14.runtimeconfig.dev.json
+C:\Users\ivani\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\netcoreapp2.0\ConsoleApp14.dll
+C:\Users\ivani\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\netcoreapp2.0\ConsoleApp14.pdb
+C:\Users\ivani\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\netcoreapp2.0\ConsoleApp14.csprojResolveAssemblyReference.cache
+C:\Users\ivani\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\netcoreapp2.0\ConsoleApp14.csproj.CoreCompileInputs.cache
+C:\Users\ivani\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\netcoreapp2.0\ConsoleApp14.AssemblyInfoInputs.cache
+C:\Users\ivani\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\netcoreapp2.0\ConsoleApp14.AssemblyInfo.cs
+C:\Users\ivani\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\netcoreapp2.0\ConsoleApp14.dll
+C:\Users\ivani\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\netcoreapp2.0\ConsoleApp14.pdb

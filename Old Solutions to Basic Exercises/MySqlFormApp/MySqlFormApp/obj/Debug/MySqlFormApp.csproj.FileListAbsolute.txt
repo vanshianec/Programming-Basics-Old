@@ -1,0 +1,13 @@
+C:\Users\ivani\source\repos\MySqlFormApp\MySqlFormApp\bin\Debug\MySqlFormApp.exe.config
+C:\Users\ivani\source\repos\MySqlFormApp\MySqlFormApp\bin\Debug\MySqlFormApp.exe
+C:\Users\ivani\source\repos\MySqlFormApp\MySqlFormApp\bin\Debug\MySqlFormApp.pdb
+C:\Users\ivani\source\repos\MySqlFormApp\MySqlFormApp\obj\Debug\MySqlFormApp.Form1.resources
+C:\Users\ivani\source\repos\MySqlFormApp\MySqlFormApp\obj\Debug\MySqlFormApp.Properties.Resources.resources
+C:\Users\ivani\source\repos\MySqlFormApp\MySqlFormApp\obj\Debug\MySqlFormApp.csproj.GenerateResource.Cache
+C:\Users\ivani\source\repos\MySqlFormApp\MySqlFormApp\obj\Debug\MySqlFormApp.csproj.CoreCompileInputs.cache
+C:\Users\ivani\source\repos\MySqlFormApp\MySqlFormApp\obj\Debug\MySqlFormApp.exe
+C:\Users\ivani\source\repos\MySqlFormApp\MySqlFormApp\obj\Debug\MySqlFormApp.pdb
+C:\Users\ivani\source\repos\MySqlFormApp\MySqlFormApp\bin\Debug\MySql.Data.dll
+C:\Users\ivani\source\repos\MySqlFormApp\MySqlFormApp\bin\Debug\Google.Protobuf.dll
+C:\Users\ivani\source\repos\MySqlFormApp\MySqlFormApp\bin\Debug\MySql.Data.xml
+C:\Users\ivani\source\repos\MySqlFormApp\MySqlFormApp\obj\Debug\MySqlFormApp.csprojResolveAssemblyReference.cache

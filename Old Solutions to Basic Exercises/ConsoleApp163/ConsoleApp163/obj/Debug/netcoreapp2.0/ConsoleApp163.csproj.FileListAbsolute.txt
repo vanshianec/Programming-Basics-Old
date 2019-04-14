@@ -1,0 +1,11 @@
+c:\users\ivani\source\repos\ConsoleApp163\ConsoleApp163\bin\Debug\netcoreapp2.0\ConsoleApp163.deps.json
+c:\users\ivani\source\repos\ConsoleApp163\ConsoleApp163\bin\Debug\netcoreapp2.0\ConsoleApp163.runtimeconfig.json
+c:\users\ivani\source\repos\ConsoleApp163\ConsoleApp163\bin\Debug\netcoreapp2.0\ConsoleApp163.runtimeconfig.dev.json
+c:\users\ivani\source\repos\ConsoleApp163\ConsoleApp163\bin\Debug\netcoreapp2.0\ConsoleApp163.dll
+c:\users\ivani\source\repos\ConsoleApp163\ConsoleApp163\bin\Debug\netcoreapp2.0\ConsoleApp163.pdb
+c:\users\ivani\source\repos\ConsoleApp163\ConsoleApp163\obj\Debug\netcoreapp2.0\ConsoleApp163.csproj.CoreCompileInputs.cache
+c:\users\ivani\source\repos\ConsoleApp163\ConsoleApp163\obj\Debug\netcoreapp2.0\ConsoleApp163.AssemblyInfoInputs.cache
+c:\users\ivani\source\repos\ConsoleApp163\ConsoleApp163\obj\Debug\netcoreapp2.0\ConsoleApp163.AssemblyInfo.cs
+c:\users\ivani\source\repos\ConsoleApp163\ConsoleApp163\obj\Debug\netcoreapp2.0\ConsoleApp163.dll
+c:\users\ivani\source\repos\ConsoleApp163\ConsoleApp163\obj\Debug\netcoreapp2.0\ConsoleApp163.pdb
+c:\users\ivani\source\repos\ConsoleApp163\ConsoleApp163\obj\Debug\netcoreapp2.0\ConsoleApp163.csprojResolveAssemblyReference.cache

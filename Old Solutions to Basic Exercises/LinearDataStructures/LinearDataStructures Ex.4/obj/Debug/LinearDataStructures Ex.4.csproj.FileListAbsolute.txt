@@ -1,0 +1,7 @@
+C:\Users\ivani\source\repos\LinearDataStructures\LinearDataStructures Ex.4\bin\Debug\LinearDataStructures Ex.4.exe.config
+C:\Users\ivani\source\repos\LinearDataStructures\LinearDataStructures Ex.4\bin\Debug\LinearDataStructures Ex.4.exe
+C:\Users\ivani\source\repos\LinearDataStructures\LinearDataStructures Ex.4\bin\Debug\LinearDataStructures Ex.4.pdb
+C:\Users\ivani\source\repos\LinearDataStructures\LinearDataStructures Ex.4\obj\Debug\LinearDataStructures Ex.4.csprojResolveAssemblyReference.cache
+C:\Users\ivani\source\repos\LinearDataStructures\LinearDataStructures Ex.4\obj\Debug\LinearDataStructures Ex.4.csproj.CoreCompileInputs.cache
+C:\Users\ivani\source\repos\LinearDataStructures\LinearDataStructures Ex.4\obj\Debug\LinearDataStructures Ex.4.exe
+C:\Users\ivani\source\repos\LinearDataStructures\LinearDataStructures Ex.4\obj\Debug\LinearDataStructures Ex.4.pdb

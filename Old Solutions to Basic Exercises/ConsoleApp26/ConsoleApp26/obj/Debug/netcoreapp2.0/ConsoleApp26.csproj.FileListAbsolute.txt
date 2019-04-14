@@ -1,0 +1,11 @@
+c:\users\ivani\source\repos\ConsoleApp26\ConsoleApp26\bin\Debug\netcoreapp2.0\ConsoleApp26.deps.json
+c:\users\ivani\source\repos\ConsoleApp26\ConsoleApp26\bin\Debug\netcoreapp2.0\ConsoleApp26.runtimeconfig.json
+c:\users\ivani\source\repos\ConsoleApp26\ConsoleApp26\bin\Debug\netcoreapp2.0\ConsoleApp26.runtimeconfig.dev.json
+c:\users\ivani\source\repos\ConsoleApp26\ConsoleApp26\bin\Debug\netcoreapp2.0\ConsoleApp26.dll
+c:\users\ivani\source\repos\ConsoleApp26\ConsoleApp26\bin\Debug\netcoreapp2.0\ConsoleApp26.pdb
+c:\users\ivani\source\repos\ConsoleApp26\ConsoleApp26\obj\Debug\netcoreapp2.0\ConsoleApp26.csprojResolveAssemblyReference.cache
+c:\users\ivani\source\repos\ConsoleApp26\ConsoleApp26\obj\Debug\netcoreapp2.0\ConsoleApp26.csproj.CoreCompileInputs.cache
+c:\users\ivani\source\repos\ConsoleApp26\ConsoleApp26\obj\Debug\netcoreapp2.0\ConsoleApp26.AssemblyInfoInputs.cache
+c:\users\ivani\source\repos\ConsoleApp26\ConsoleApp26\obj\Debug\netcoreapp2.0\ConsoleApp26.AssemblyInfo.cs
+c:\users\ivani\source\repos\ConsoleApp26\ConsoleApp26\obj\Debug\netcoreapp2.0\ConsoleApp26.dll
+c:\users\ivani\source\repos\ConsoleApp26\ConsoleApp26\obj\Debug\netcoreapp2.0\ConsoleApp26.pdb

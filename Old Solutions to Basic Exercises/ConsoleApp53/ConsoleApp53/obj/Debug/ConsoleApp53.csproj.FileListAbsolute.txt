@@ -1,0 +1,7 @@
+C:\Users\ivani\source\repos\ConsoleApp53\ConsoleApp53\bin\Debug\ConsoleApp53.exe.config
+C:\Users\ivani\source\repos\ConsoleApp53\ConsoleApp53\bin\Debug\ConsoleApp53.exe
+C:\Users\ivani\source\repos\ConsoleApp53\ConsoleApp53\bin\Debug\ConsoleApp53.pdb
+C:\Users\ivani\source\repos\ConsoleApp53\ConsoleApp53\obj\Debug\ConsoleApp53.csprojResolveAssemblyReference.cache
+C:\Users\ivani\source\repos\ConsoleApp53\ConsoleApp53\obj\Debug\ConsoleApp53.csproj.CoreCompileInputs.cache
+C:\Users\ivani\source\repos\ConsoleApp53\ConsoleApp53\obj\Debug\ConsoleApp53.exe
+C:\Users\ivani\source\repos\ConsoleApp53\ConsoleApp53\obj\Debug\ConsoleApp53.pdb

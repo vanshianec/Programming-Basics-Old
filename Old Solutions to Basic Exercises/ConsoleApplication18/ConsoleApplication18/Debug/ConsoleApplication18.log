@@ -1,0 +1,4 @@
+﻿  ConsoleApplication18.cpp
+c:\users\ivani\source\repos\consoleapplication18\consoleapplication18\consoleapplication18.cpp(27): error C2043: illegal break
+c:\users\ivani\source\repos\consoleapplication18\consoleapplication18\consoleapplication18.cpp(31): error C2059: syntax error: '}'
+c:\users\ivani\source\repos\consoleapplication18\consoleapplication18\consoleapplication18.cpp(31): error C2143: syntax error: missing ';' before '}'

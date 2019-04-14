@@ -1,0 +1,7 @@
+c:\users\ivani\source\repos\MyTree\MyTree\bin\Debug\MyTree.exe.config
+c:\users\ivani\source\repos\MyTree\MyTree\bin\Debug\MyTree.exe
+c:\users\ivani\source\repos\MyTree\MyTree\bin\Debug\MyTree.pdb
+c:\users\ivani\source\repos\MyTree\MyTree\obj\Debug\MyTree.csprojResolveAssemblyReference.cache
+c:\users\ivani\source\repos\MyTree\MyTree\obj\Debug\MyTree.csproj.CoreCompileInputs.cache
+c:\users\ivani\source\repos\MyTree\MyTree\obj\Debug\MyTree.exe
+c:\users\ivani\source\repos\MyTree\MyTree\obj\Debug\MyTree.pdb

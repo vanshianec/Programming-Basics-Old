@@ -1,0 +1,11 @@
+C:\Users\ivani\source\repos\ConsoleApp69\ConsoleApp69\bin\Debug\netcoreapp2.0\ConsoleApp69.deps.json
+C:\Users\ivani\source\repos\ConsoleApp69\ConsoleApp69\bin\Debug\netcoreapp2.0\ConsoleApp69.runtimeconfig.json
+C:\Users\ivani\source\repos\ConsoleApp69\ConsoleApp69\bin\Debug\netcoreapp2.0\ConsoleApp69.runtimeconfig.dev.json
+C:\Users\ivani\source\repos\ConsoleApp69\ConsoleApp69\bin\Debug\netcoreapp2.0\ConsoleApp69.dll
+C:\Users\ivani\source\repos\ConsoleApp69\ConsoleApp69\bin\Debug\netcoreapp2.0\ConsoleApp69.pdb
+C:\Users\ivani\source\repos\ConsoleApp69\ConsoleApp69\obj\Debug\netcoreapp2.0\ConsoleApp69.csprojResolveAssemblyReference.cache
+C:\Users\ivani\source\repos\ConsoleApp69\ConsoleApp69\obj\Debug\netcoreapp2.0\ConsoleApp69.csproj.CoreCompileInputs.cache
+C:\Users\ivani\source\repos\ConsoleApp69\ConsoleApp69\obj\Debug\netcoreapp2.0\ConsoleApp69.AssemblyInfoInputs.cache
+C:\Users\ivani\source\repos\ConsoleApp69\ConsoleApp69\obj\Debug\netcoreapp2.0\ConsoleApp69.AssemblyInfo.cs
+C:\Users\ivani\source\repos\ConsoleApp69\ConsoleApp69\obj\Debug\netcoreapp2.0\ConsoleApp69.dll
+C:\Users\ivani\source\repos\ConsoleApp69\ConsoleApp69\obj\Debug\netcoreapp2.0\ConsoleApp69.pdb

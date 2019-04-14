@@ -1,0 +1,7 @@
+C:\Users\ivani\source\repos\ConsoleApp77\ConsoleApp77\bin\Debug\ConsoleApp77.exe.config
+C:\Users\ivani\source\repos\ConsoleApp77\ConsoleApp77\bin\Debug\ConsoleApp77.exe
+C:\Users\ivani\source\repos\ConsoleApp77\ConsoleApp77\bin\Debug\ConsoleApp77.pdb
+C:\Users\ivani\source\repos\ConsoleApp77\ConsoleApp77\obj\Debug\ConsoleApp77.csprojResolveAssemblyReference.cache
+C:\Users\ivani\source\repos\ConsoleApp77\ConsoleApp77\obj\Debug\ConsoleApp77.csproj.CoreCompileInputs.cache
+C:\Users\ivani\source\repos\ConsoleApp77\ConsoleApp77\obj\Debug\ConsoleApp77.exe
+C:\Users\ivani\source\repos\ConsoleApp77\ConsoleApp77\obj\Debug\ConsoleApp77.pdb

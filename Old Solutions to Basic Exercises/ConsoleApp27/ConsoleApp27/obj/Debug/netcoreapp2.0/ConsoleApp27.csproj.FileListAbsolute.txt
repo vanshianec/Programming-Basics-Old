@@ -1,0 +1,11 @@
+C:\Users\ivani\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\netcoreapp2.0\ConsoleApp27.deps.json
+C:\Users\ivani\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\netcoreapp2.0\ConsoleApp27.runtimeconfig.json
+C:\Users\ivani\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\netcoreapp2.0\ConsoleApp27.runtimeconfig.dev.json
+C:\Users\ivani\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\netcoreapp2.0\ConsoleApp27.dll
+C:\Users\ivani\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\netcoreapp2.0\ConsoleApp27.pdb
+C:\Users\ivani\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\netcoreapp2.0\ConsoleApp27.csprojResolveAssemblyReference.cache
+C:\Users\ivani\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\netcoreapp2.0\ConsoleApp27.csproj.CoreCompileInputs.cache
+C:\Users\ivani\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\netcoreapp2.0\ConsoleApp27.AssemblyInfoInputs.cache
+C:\Users\ivani\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\netcoreapp2.0\ConsoleApp27.AssemblyInfo.cs
+C:\Users\ivani\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\netcoreapp2.0\ConsoleApp27.dll
+C:\Users\ivani\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\netcoreapp2.0\ConsoleApp27.pdb

@@ -1,0 +1,13 @@
+C:\Users\ivani\source\repos\StackImplementation\StackImplementation\bin\Debug\StackImplementation.exe.config
+C:\Users\ivani\source\repos\StackImplementation\StackImplementation\bin\Debug\StackImplementation.exe
+C:\Users\ivani\source\repos\StackImplementation\StackImplementation\bin\Debug\StackImplementation.pdb
+C:\Users\ivani\source\repos\StackImplementation\StackImplementation\obj\Debug\StackImplementation.csprojResolveAssemblyReference.cache
+C:\Users\ivani\source\repos\StackImplementation\StackImplementation\obj\Debug\StackImplementation.csproj.CoreCompileInputs.cache
+C:\Users\ivani\source\repos\StackImplementation\StackImplementation\obj\Debug\StackImplementation.exe
+C:\Users\ivani\source\repos\StackImplementation\StackImplementation\obj\Debug\StackImplementation.pdb
+C:\Users\Иван Йовов\source\repos\StackImplementation\StackImplementation\bin\Debug\StackImplementation.exe.config
+C:\Users\Иван Йовов\source\repos\StackImplementation\StackImplementation\bin\Debug\StackImplementation.exe
+C:\Users\Иван Йовов\source\repos\StackImplementation\StackImplementation\bin\Debug\StackImplementation.pdb
+C:\Users\Иван Йовов\source\repos\StackImplementation\StackImplementation\obj\Debug\StackImplementation.csproj.CoreCompileInputs.cache
+C:\Users\Иван Йовов\source\repos\StackImplementation\StackImplementation\obj\Debug\StackImplementation.exe
+C:\Users\Иван Йовов\source\repos\StackImplementation\StackImplementation\obj\Debug\StackImplementation.pdb

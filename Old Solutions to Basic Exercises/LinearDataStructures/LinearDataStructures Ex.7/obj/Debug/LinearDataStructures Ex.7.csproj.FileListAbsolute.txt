@@ -1,0 +1,14 @@
+C:\Users\ivani\source\repos\LinearDataStructures\LinearDataStructures Ex.7\bin\Debug\LinearDataStructures Ex.7.exe.config
+C:\Users\ivani\source\repos\LinearDataStructures\LinearDataStructures Ex.7\bin\Debug\LinearDataStructures Ex.7.exe
+C:\Users\ivani\source\repos\LinearDataStructures\LinearDataStructures Ex.7\bin\Debug\LinearDataStructures Ex.7.pdb
+C:\Users\ivani\source\repos\LinearDataStructures\LinearDataStructures Ex.7\obj\Debug\LinearDataStructures Ex.7.csproj.CoreCompileInputs.cache
+C:\Users\ivani\source\repos\LinearDataStructures\LinearDataStructures Ex.7\obj\Debug\LinearDataStructures Ex.7.exe
+C:\Users\ivani\source\repos\LinearDataStructures\LinearDataStructures Ex.7\obj\Debug\LinearDataStructures Ex.7.pdb
+C:\Users\ivani\source\repos\LinearDataStructures\LinearDataStructures Ex.7\obj\Debug\LinearDataStructures Ex.7.csprojResolveAssemblyReference.cache
+C:\Users\Иван Йовов\source\repos\LinearDataStructures\LinearDataStructures Ex.7\bin\Debug\LinearDataStructures Ex.7.exe.config
+C:\Users\Иван Йовов\source\repos\LinearDataStructures\LinearDataStructures Ex.7\bin\Debug\LinearDataStructures Ex.7.exe
+C:\Users\Иван Йовов\source\repos\LinearDataStructures\LinearDataStructures Ex.7\bin\Debug\LinearDataStructures Ex.7.pdb
+C:\Users\Иван Йовов\source\repos\LinearDataStructures\LinearDataStructures Ex.7\obj\Debug\LinearDataStructures Ex.7.csprojAssemblyReference.cache
+C:\Users\Иван Йовов\source\repos\LinearDataStructures\LinearDataStructures Ex.7\obj\Debug\LinearDataStructures Ex.7.csproj.CoreCompileInputs.cache
+C:\Users\Иван Йовов\source\repos\LinearDataStructures\LinearDataStructures Ex.7\obj\Debug\LinearDataStructures Ex.7.exe
+C:\Users\Иван Йовов\source\repos\LinearDataStructures\LinearDataStructures Ex.7\obj\Debug\LinearDataStructures Ex.7.pdb

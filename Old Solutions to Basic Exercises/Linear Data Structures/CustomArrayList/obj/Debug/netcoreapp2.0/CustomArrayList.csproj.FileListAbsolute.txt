@@ -1,0 +1,11 @@
+C:\Users\ivani\source\repos\Linear Data Structures\CustomArrayList\bin\Debug\netcoreapp2.0\CustomArrayList.deps.json
+C:\Users\ivani\source\repos\Linear Data Structures\CustomArrayList\bin\Debug\netcoreapp2.0\CustomArrayList.runtimeconfig.json
+C:\Users\ivani\source\repos\Linear Data Structures\CustomArrayList\bin\Debug\netcoreapp2.0\CustomArrayList.runtimeconfig.dev.json
+C:\Users\ivani\source\repos\Linear Data Structures\CustomArrayList\bin\Debug\netcoreapp2.0\CustomArrayList.dll
+C:\Users\ivani\source\repos\Linear Data Structures\CustomArrayList\bin\Debug\netcoreapp2.0\CustomArrayList.pdb
+C:\Users\ivani\source\repos\Linear Data Structures\CustomArrayList\obj\Debug\netcoreapp2.0\CustomArrayList.csprojResolveAssemblyReference.cache
+C:\Users\ivani\source\repos\Linear Data Structures\CustomArrayList\obj\Debug\netcoreapp2.0\CustomArrayList.csproj.CoreCompileInputs.cache
+C:\Users\ivani\source\repos\Linear Data Structures\CustomArrayList\obj\Debug\netcoreapp2.0\CustomArrayList.AssemblyInfoInputs.cache
+C:\Users\ivani\source\repos\Linear Data Structures\CustomArrayList\obj\Debug\netcoreapp2.0\CustomArrayList.AssemblyInfo.cs
+C:\Users\ivani\source\repos\Linear Data Structures\CustomArrayList\obj\Debug\netcoreapp2.0\CustomArrayList.dll
+C:\Users\ivani\source\repos\Linear Data Structures\CustomArrayList\obj\Debug\netcoreapp2.0\CustomArrayList.pdb

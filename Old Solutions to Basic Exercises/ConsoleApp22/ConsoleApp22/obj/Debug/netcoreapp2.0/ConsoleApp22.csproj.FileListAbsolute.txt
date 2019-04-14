@@ -1,0 +1,11 @@
+c:\users\ivani\source\repos\ConsoleApp22\ConsoleApp22\bin\Debug\netcoreapp2.0\ConsoleApp22.deps.json
+c:\users\ivani\source\repos\ConsoleApp22\ConsoleApp22\bin\Debug\netcoreapp2.0\ConsoleApp22.runtimeconfig.json
+c:\users\ivani\source\repos\ConsoleApp22\ConsoleApp22\bin\Debug\netcoreapp2.0\ConsoleApp22.runtimeconfig.dev.json
+c:\users\ivani\source\repos\ConsoleApp22\ConsoleApp22\bin\Debug\netcoreapp2.0\ConsoleApp22.dll
+c:\users\ivani\source\repos\ConsoleApp22\ConsoleApp22\bin\Debug\netcoreapp2.0\ConsoleApp22.pdb
+c:\users\ivani\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\netcoreapp2.0\ConsoleApp22.csprojResolveAssemblyReference.cache
+c:\users\ivani\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\netcoreapp2.0\ConsoleApp22.csproj.CoreCompileInputs.cache
+c:\users\ivani\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\netcoreapp2.0\ConsoleApp22.AssemblyInfoInputs.cache
+c:\users\ivani\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\netcoreapp2.0\ConsoleApp22.AssemblyInfo.cs
+c:\users\ivani\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\netcoreapp2.0\ConsoleApp22.dll
+c:\users\ivani\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\netcoreapp2.0\ConsoleApp22.pdb

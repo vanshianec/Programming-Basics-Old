@@ -1,0 +1,11 @@
+C:\Users\ivani\source\repos\LinearDataStructures\Stack\bin\Debug\netcoreapp2.0\Stack.deps.json
+C:\Users\ivani\source\repos\LinearDataStructures\Stack\bin\Debug\netcoreapp2.0\Stack.runtimeconfig.json
+C:\Users\ivani\source\repos\LinearDataStructures\Stack\bin\Debug\netcoreapp2.0\Stack.runtimeconfig.dev.json
+C:\Users\ivani\source\repos\LinearDataStructures\Stack\bin\Debug\netcoreapp2.0\Stack.dll
+C:\Users\ivani\source\repos\LinearDataStructures\Stack\bin\Debug\netcoreapp2.0\Stack.pdb
+C:\Users\ivani\source\repos\LinearDataStructures\Stack\obj\Debug\netcoreapp2.0\Stack.csprojResolveAssemblyReference.cache
+C:\Users\ivani\source\repos\LinearDataStructures\Stack\obj\Debug\netcoreapp2.0\Stack.csproj.CoreCompileInputs.cache
+C:\Users\ivani\source\repos\LinearDataStructures\Stack\obj\Debug\netcoreapp2.0\Stack.AssemblyInfoInputs.cache
+C:\Users\ivani\source\repos\LinearDataStructures\Stack\obj\Debug\netcoreapp2.0\Stack.AssemblyInfo.cs
+C:\Users\ivani\source\repos\LinearDataStructures\Stack\obj\Debug\netcoreapp2.0\Stack.dll
+C:\Users\ivani\source\repos\LinearDataStructures\Stack\obj\Debug\netcoreapp2.0\Stack.pdb

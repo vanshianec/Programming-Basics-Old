@@ -1,0 +1,11 @@
+c:\users\ivani\source\repos\ConsoleApp24\ConsoleApp24\bin\Debug\netcoreapp2.0\ConsoleApp24.deps.json
+c:\users\ivani\source\repos\ConsoleApp24\ConsoleApp24\bin\Debug\netcoreapp2.0\ConsoleApp24.runtimeconfig.json
+c:\users\ivani\source\repos\ConsoleApp24\ConsoleApp24\bin\Debug\netcoreapp2.0\ConsoleApp24.runtimeconfig.dev.json
+c:\users\ivani\source\repos\ConsoleApp24\ConsoleApp24\bin\Debug\netcoreapp2.0\ConsoleApp24.dll
+c:\users\ivani\source\repos\ConsoleApp24\ConsoleApp24\bin\Debug\netcoreapp2.0\ConsoleApp24.pdb
+c:\users\ivani\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\netcoreapp2.0\ConsoleApp24.csprojResolveAssemblyReference.cache
+c:\users\ivani\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\netcoreapp2.0\ConsoleApp24.csproj.CoreCompileInputs.cache
+c:\users\ivani\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\netcoreapp2.0\ConsoleApp24.AssemblyInfoInputs.cache
+c:\users\ivani\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\netcoreapp2.0\ConsoleApp24.AssemblyInfo.cs
+c:\users\ivani\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\netcoreapp2.0\ConsoleApp24.dll
+c:\users\ivani\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\netcoreapp2.0\ConsoleApp24.pdb
